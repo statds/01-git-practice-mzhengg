@@ -41,4 +41,7 @@ Check your Python coding styles against the recommended styles:
 + [DrivenData](https://www.drivendata.org)
 + [Top 10 Data Science Competitions in
   2023](https://www.knowledgehut.com/blog/data-science/data-science-competitions)
-  
+
+### Presentation Orders
+
+Wait until next week to let the class size settle.
