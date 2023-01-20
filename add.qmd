@@ -1,0 +1,6 @@
+# Introduction
+
+## What Is Data Science?
+
+One widely accepted concept is the three pillars of data science:
+mathematics/statistics, computer science, and domain knowledge.
