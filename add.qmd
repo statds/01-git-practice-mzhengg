@@ -4,3 +4,19 @@
 
 One widely accepted concept is the three pillars of data science:
 mathematics/statistics, computer science, and domain knowledge.
+
+## Add a Long Line
+
+In her 2014 Presidential Address, Prof. Bin Yu, then President of the
+Institute of Mathematical Statistics, gave an interesting definition:
+$$
+\mbox{Data Science} =
+\mbox{S}\mbox{D}\mbox{C}^3,
+$$
+where S is Statistics, D is domain/science knowledge, and
+the three C's are computing, collaboration/teamwork, and communication
+to outsiders.
+
+## Add a Short Line
+
+On Linux or MacOS, simply open a terminal.
