@@ -33,3 +33,12 @@ Readability is important!
 Check your Python coding styles against the recommended styles:
 <https://peps.python.org/pep-0008/>. A good place to start if the Section on
 "Code Lay-out". 
+
+## Data Challenges
+
++ [ASA Data Challenge Expo](https://community.amstat.org/dataexpo/home)
++ [Kaggle](https://www.kaggle.com)
++ [DrivenData](https://www.drivendata.org)
++ [Top 10 Data Science Competitions in
+  2023](https://www.knowledgehut.com/blog/data-science/data-science-competitions)
+  
