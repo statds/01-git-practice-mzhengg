@@ -20,3 +20,16 @@ to outsiders.
 ## Add a Short Line
 
 On Linux or MacOS, just open a terminal.
+
+### Python
+
+Set up Python on your computer:
+
+- Python 3.
+- Python package manager __miniconda__ or __pip__.
+- Integrated Development Environment (IDE) (Jupyter Notebook; RStudio; VS Code; Emacs; etc.)
+
+Readability is important!
+Check your Python coding styles against the recommended styles:
+<https://peps.python.org/pep-0008/>. A good place to start if the Section on
+"Code Lay-out". 
